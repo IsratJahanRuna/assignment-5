@@ -16,3 +16,17 @@
     text-align: center;
     padding: 10px;
 }
+.ingredients{
+    width: 400px;
+    border: 1px solid wheat;
+    box-shadow: rgb(196, 193, 193);
+}
+.ingredients img{
+    width: 448px;
+    height: 300px;
+}
+.ingredients h2, h4, li{
+    padding-left: 10px;
+    margin-left: 10px;
+    list-style: none;
+}
