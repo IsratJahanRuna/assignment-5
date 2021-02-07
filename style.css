@@ -1,0 +1,18 @@
+#mealsDisplay{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding-left: 30px;
+}
+.design{
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 5px;
+    width: 302px;
+    margin-top: 20px;
+}
+.design img{
+    width: 300px;
+}
+.design h4{
+    text-align: center;
+    padding: 10px;
+}
